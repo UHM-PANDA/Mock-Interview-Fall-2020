@@ -1,4 +1,3 @@
-# Mock-Interview-Fall-2020
 # These are the prompts for the problems for Fall 2020
 17 weeks in total
 15 weeks => 14 weeks
