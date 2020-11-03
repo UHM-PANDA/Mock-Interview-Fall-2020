@@ -1,0 +1,22 @@
+Languages
+     - C/C++, C#, Java, Python, Javascript, HTML ;)
+     - You can ask about other languages, ZERO promises
+No Cheating
+     - (MMOS) A System for Detecting Software Similarity
+     - https://theory.stanford.edu/~aiken/moss/
+Solution Format
+     - .txt, .c, .cpp, cs, .java, .java, .js, ETC
+     - .zip, .tar
+No Late Submissions
+     - ZERO exceptions
+Code Fails to Compile
+     - Automatic Fail / No Exceptions
+Group cannot have “overlapping” members
+     - One member, in one group
+Mock Interview Board maintains right to resolve point-ties
+     - Priority is as follows: RunTime, Space-Complexity, Code Quality, and finally Submission Time
+Mock Interview Board maintains right to disqualify anyone for any reason
+     - If you do something we deem is unfair, we hold the right to remove you from the contest.
+     - Final decision made by Mock Interview Board (Japhet, Ryuto, Kana’i)
+Prizes should be shared equitably
+     - PANDA board will distribute equitably after contacting you, if / when you win. 
