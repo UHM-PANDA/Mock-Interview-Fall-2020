@@ -1,4 +1,4 @@
-# Week 7: “Recursion Pt2 Electric Boogaloo”
+# Week 8: “Recursion Pt2 Electric Boogaloo”
 ### October 19 – 23, 2020
 
 #### 1) Knapsack
