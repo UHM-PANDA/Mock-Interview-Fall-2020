@@ -5,9 +5,10 @@
 Given the weights and values of n items and a capacity W of a sack. Find the maximum value of items to put in the sack without going over capacity.
 ```
 input: 
+       capacity: 50
        value: [60, 100, 120],
        weight: [10, 20, 30], 
-       capacity: 50
+       
 
 output: 220
 ```
