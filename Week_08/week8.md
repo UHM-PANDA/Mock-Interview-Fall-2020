@@ -3,19 +3,19 @@
 #### 1) Knapsack
 Given the weights and values of n items and a capacity W of a sack. Find the maximum value of items to put in the sack without going over capacity.
 ```
-input: 
+input:
        capacity: 50
        value: [60, 100, 120],
-       weight: [10, 20, 30], 
-       
+       weight: [10, 20, 30],
+
 
 output: 220
 ```
 #### 2) Rod Cutting
-Given a rod of n inches and an array of prices of peices of size smaller than n. Determine the maximum value obtainable by cutting the rod and selling it.
+Given a rod of n inches and an array of prices of pieces of size smaller than n. Determine the maximum value obtainable by cutting the rod and selling it.
 
 ```
-input: 
+input:
     length: 8,
     price:  [1, 5, 8, 9, 10, 17, 17, 20]
 
