@@ -14,7 +14,7 @@ std::vector<int> delete_dups(std::vector<int> input) {
     }
 
     for (auto it : check) {
-        ans.push_back(it->first);
+        ans.push_back(it.first);
     }
 
     return ans;
