@@ -23,7 +23,7 @@ output: [[1],[1,1],[1,2,1],[1,3,3,1]]
 ```
 #### 3) Test Collatz Conjecture
 Collatz Conjecture: take any natural number, if it is odd, triple it and add 1, if even, halve it. Repeat the process indefinitely and no matter what number, the sequence will always end with 1.
-Given an integer n, test the Collatz Conjecture for the first n integers. If all the integers pass the Collatz Conjecture, return true. Otherwise return false.
+Given an long n, test the Collatz Conjecture for the first n integers. If all the integers pass the Collatz Conjecture, return true. Otherwise return false.
 
 ```
 Example sequence: 11 -> 11,34,17,52,26,13,40,20,10,5,16,8,4,2,1
