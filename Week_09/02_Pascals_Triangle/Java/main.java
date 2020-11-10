@@ -1,10 +1,12 @@
 public class Main {
      static void printPascal(int n) {
+
+          triangle = new int[10][10];
+
           for (int line = 0; line < n; line++) {
                for (int i = 0; i <= line; i++) {
-                    System.out.print(choose(line, i)+" ");
+                    triangle[line][i] = choose(line, i);
                }
-               System.out.println();
           }
      }
 
