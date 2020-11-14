@@ -1,5 +1,4 @@
 # Week 4: “Recursion”
-### September 28 – October 2, 2020
 
 #### 1) DP Fibonacci
 The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1.

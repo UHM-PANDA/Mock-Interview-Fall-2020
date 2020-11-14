@@ -1,5 +1,4 @@
 # Week 11: “Graph it out”
-### November 16 – 20, 2020
 
 #### 1) Search a Maze
 ```

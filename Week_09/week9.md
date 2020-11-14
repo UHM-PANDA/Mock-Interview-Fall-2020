@@ -1,5 +1,4 @@
 # Week 9: “Arranging Arrays”
-### November 2 – 6, 2020
 
 #### 1) Delete duplicates
 Given a sorted array, delete all duplicates in the array.

@@ -1,5 +1,4 @@
 # Week 12: “Mathy pt2 Pattern Boogaloo”
-### November 23 – 27, 2020
 
 #### 1) Enumerate all primes up to n
 ```

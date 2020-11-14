@@ -1,5 +1,4 @@
 # Week 5: “Sum-thing is wrong”
-### October 5 – 9, 2020
 
 #### 1) Two Sum
 Given an array of integers and a key, return True if there are two values within the array that add up to the key.  Return False otherwise.

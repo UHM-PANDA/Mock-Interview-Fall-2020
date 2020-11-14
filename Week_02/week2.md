@@ -1,5 +1,4 @@
 # Week 2: “Think outside the box"
-### September 14 – 18, 2020
 
 #### 1) Count Bits
 Write a function that takes an unsigned integer and return the number of '1' bits it has (also known as the Hamming weight).

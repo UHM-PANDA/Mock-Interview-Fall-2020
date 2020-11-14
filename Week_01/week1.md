@@ -1,6 +1,4 @@
-
 # Week 1: "Start with the Romans"
-### September 7 – 11, 2020
 
 #### 1) Decimal to Roman
 Given an integer, convert it to a roman numeral. Input is guaranteed to be within the range from 1 to 3999.

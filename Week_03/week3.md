@@ -1,5 +1,4 @@
 # Week 3: ”Know your boundaries”
-### September 21 – 25, 2020
 
 #### 1) Remove Kth last element from LL
 Given a linked list, remove the k-th node from the end of list and return its head.
@@ -51,6 +50,6 @@ Input:
 Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 ```
 ```
-Time Complexity: O(m) where m is the length of shorter list 
+Time Complexity: O(m) where m is the length of shorter list
 Space Complexity: O(m * n)
 ```

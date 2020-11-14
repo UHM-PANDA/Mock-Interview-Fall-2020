@@ -1,5 +1,4 @@
 # Week 6: “Random Week”
-### October 12 – 16, 2020
 
 #### 1) Palindrome
 Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.

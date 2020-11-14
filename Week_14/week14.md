@@ -1,5 +1,4 @@
 # Week 14: “Riddle Me This”
-### December 7 – 10, 2020
 
 #### 1) Prisoner Hat Problem
 ```
