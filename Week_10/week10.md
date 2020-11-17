@@ -24,6 +24,29 @@ return: ->1->3->/
 ```
 #### 3) xICPC Stamp Problem
 What is the smallest postage value which cannot be placed on an envelope, if the latter can hold only a limited number of stamps, and these may only have certain specified face values.
+
+Input: 	x (int, maximum amount of stamps on an envelope)
+		val[] (array of ints representing different stamp values)
+		
+Output:	min (min value that cannot be on the card at once)
+
 ```
-Hello
+Input: 	x = 3
+		val[] = (1, 2, 5, 20)
+		
+	1: 1
+	2: 2
+	3: 1, 2
+	4: 2, 2
+	5: 5
+	6: 1, 5
+	7: 2, 5
+	8: 1, 2, 5
+	9: 2, 2, 5
+	10: 5, 5
+	11: 1, 5, 5
+	12: 2, 5, 5
+	13: cannot
+	
+Output:	13
 ```
