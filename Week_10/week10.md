@@ -1,7 +1,7 @@
 # Week 10: “Mathy”
 
 #### 1) Even Odd Sum
-Check if sum of first n integers is even or odd or neither. Return 1 for even, return 0 for odd, return -1 for neither.
+Check if a sum of sequence of consecutive n integers is even or odd or neither. The sequence can start from any number on the real integer line. Return 1 for even, return 0 for odd, return -1 for neither.
 ```
 input: 2
 output: 0
