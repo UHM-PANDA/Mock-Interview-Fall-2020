@@ -6,7 +6,7 @@ int evenOddSum(int input) {
     }
 
     if (input % 4) {
-        return 0;
+        return 1;
     }
 
     return 0;
