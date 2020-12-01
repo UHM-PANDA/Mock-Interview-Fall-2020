@@ -1,4 +1,4 @@
-# Week 11: “Graph it out”
+# Week 11: “The Fun Stuff”
 
 #### 1) Enumerate Primes
 Return a array of all primes less than a int n.
@@ -7,12 +7,17 @@ Input: 	6
 Output:	[2, 3, 5]
 ```
 #### 2) Overlapping Rectangles
-Given the vertices of two rectangles.
+Given the top left and bottom right of each triangle.
 ```
-Input:    rec1 = [[0,0],           rec2 = [[0,0],
-                  [0,5]                    [0,1]
-                  [5,5]                    [1,1]
-                  [5,0]].                  [1,0]].
+Input:    l1.x = 0       -> top left x coordinate of rectangle 1
+          l1.y = 0       -> top left y ~
+          r1.x = 5       -> bottom right x coordinate ~
+          r1.y = -5      -> bottom right y ~
+          l2.x = 0       -> top left x coordinate of rectangle 2
+          l2.y = 0       -> top left y ~
+          r2.x = 1       -> bottom right x coordinate ~
+          r2.y = -100    -> bottom right y ~
+
 Output: True
 ```
 #### 3) Sock merchant problem
