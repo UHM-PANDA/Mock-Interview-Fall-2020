@@ -37,5 +37,23 @@ Hints:
 ```
 #### 4) The HARDEST Puzzle Yet!
 ```
-Hello
+Make all these math statments true. Add in any math operations between the three of the numbers to make them true.
+
+0   0   0  =  6
+1   1   1  =  6
+2   2   2  =  6
+3   3   3  =  6
+4   4   4  =  6
+5   5   5  =  6
+6   6   6  =  6
+7   7   7  =  6
+8   8   8  =  6
+9   9   9  =  6
+
+
+freebie:
+6 + 6 - 6 = 6
+
+
+Catch is that you cannot do an operation that requires you to draw another number. For example, cube-root or squaring operations are not allowes as then require you to draw another number. You can only use math operations that do not require you to draw another number.
 ```
