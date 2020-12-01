@@ -1,5 +1,5 @@
 public class Main {
-     public static boolean overlappingRectangles2D(double[][] rec1, double[][] rec2) {
+     public static boolean robertsMethod(double[][] rec1, double[][] rec2) {
 
           // Q.O.L.
           int X = 0;
