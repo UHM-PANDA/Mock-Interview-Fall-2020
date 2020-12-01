@@ -70,31 +70,17 @@
 ```
 1) Check if sum of first n integers is even or odd or neither
 2) Form a linked list from leaves of B-Tree
-3) xICPC Stamp Problem
+1) Enumerate all primes up to n
 ```
 
-### Week 11: “Graph it out”
-```
-1) Search a Maze
-2) Clone a graph
-3) Check to see if a graph is a bipartite graph
-```
-
-### Week 12: “Mathy pt2 Pattern Boogaloo”
+### Week 11: “The Fun Stuff”
 ```
 1) Enumerate all primes up to n
-2) Josephus problem
-3) Modified Josephus problem
+2) Overlapping Rectangles
+3) Sock merchant problem
 ```
 
-### Week 13: “Design it”
-```
-1) Overlapping Rectangles
-2) Sock merchant problem
-3) Maximize product of same-indexed elements of same size subsequences
-```
-
-### Week 14: “Riddle Me This”
+### Week 12: “Riddle Me This”
 ```
 1) Prisoner Hat Problem
 2) Goat-Wolf-Cabbage-Farmer Problem
