@@ -25,7 +25,6 @@ def sockMerchantSpace(arr):
       currentVal = i
       currentCount = 1
   pairCount += currentCount//2
-  currentVal = i
   return pairCount
   
 # Testing
