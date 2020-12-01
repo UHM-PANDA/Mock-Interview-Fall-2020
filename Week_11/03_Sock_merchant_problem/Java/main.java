@@ -1,25 +1,27 @@
 import java.util.Arrays;
+import java.util.Hashtable;
 
 public class main {
 	public static void main(String[] args) {
-		int[] arr = [4,1,4,1,3,3,3,5,6,5];
+		int[] arr = {4,1,4,1,3,3,3,5,6,5};
 		System.out.println(sockMerchantTime(arr));
 		System.out.println(sockMerchantTime(arr));
 	}
 	
 	public static int sockMerchantTime(int[] arr) {
-		HashSet<Integer> set = new HashSet<Integer>();
+		Hashtable<Integer, Integer> set = new Hashtable<Integer, Integer>();
         for (int i = 0; i < arr.length; i++) {
              if(set.contains(arr[i])) {
-                  arr.put(i, 1);
+                  set.put(i, 1);
              } else {
-                  arr.put(i, arr.get(i) + 1);
+                  set.put(i, set.get(i) + 1);
              }
         }
         int pairs = 0;
         for (int i = 0; i < arr.length; i++) {
-             pairs += (arr.get(i) / 2);
+             pairs += (set.get(i) / 2);
         }
+        return pairs;
 	}
 	
 	public static int sockMerchantSpace(int[] arr) {
