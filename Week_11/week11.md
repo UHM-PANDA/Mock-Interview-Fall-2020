@@ -6,11 +6,11 @@ Return a array of all primes less than a int n.
 Input: 	6
 Output:	[2, 3, 5]
 ```
-#### 2) Clone a graph
+#### 2) Overlapping Rectangles
 ```
 Hello
 ```
-#### 3) Check to see if a graph is a bipartite graph
+#### 3) Sock merchant problem
 ```
 Hello
 ```
