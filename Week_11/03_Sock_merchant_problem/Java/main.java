@@ -8,7 +8,18 @@ public class main {
 	}
 	
 	public static int sockMerchantTime(int[] arr) {
-		
+		HashSet<Integer> set = new HashSet<Integer>();
+        for (int i = 0; i < arr.length; i++) {
+             if(set.contains(arr[i])) {
+                  arr.put(i, 1);
+             } else {
+                  arr.put(i, arr.get(i) + 1);
+             }
+        }
+        int pairs = 0;
+        for (int i = 0; i < arr.length; i++) {
+             pairs += (arr.get(i) / 2);
+        }
 	}
 	
 	public static int sockMerchantSpace(int[] arr) {
@@ -26,22 +37,7 @@ public class main {
 				currentCount = 1;
 			}
 		}
+		pairCount += currentCount/2;
+		return pairCount;
 	}
 }
-
-# Space-Optimal: O(nlgn) time, O(1) space
-def sockMerchantSpace(arr):
-  arr.sort()
-  currentVal = arr[0]
-  currentCount = 0
-  pairCount = 0
-  for i in arr:
-    if i == currentVal:
-      currentCount += 1
-    else:
-      pairCount += currentCount//2
-      currentVal = i
-      currentCount = 1
-  pairCount += currentCount//2
-  currentVal = i
-  return pairCount
