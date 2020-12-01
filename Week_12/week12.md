@@ -1,14 +1,18 @@
-# Week 12: “Mathy pt2 Pattern Boogaloo”
+# Week 14: “Riddle Me This”
 
-#### 1) Enumerate all primes up to n
+#### 1) Prisoner Hat Problem
 ```
 Hello
 ```
-#### 2) Josephus problem
+#### 2) Goat-Wolf-Cabbage-Farmer Problem
 ```
 Hello
 ```
-#### 3) Modified Josephus problem
+#### 3) Einsteins riddle
+```
+Hello
+```
+#### 4) The HARDEST Puzzle Yet!
 ```
 Hello
 ```
