@@ -1,4 +1,4 @@
-# Week 11: “Graph it out”
+# Week 11: “The Fun Stuff”
 
 #### 1) Enumerate Primes
 Return a array of all primes less than a int n.
@@ -17,7 +17,6 @@ Input:    l1.x = 0       -> top left x coordinate of rectangle 1
           l2.y = 0       -> top left y ~
           r2.x = 1       -> bottom right x coordinate ~
           r2.y = -100    -> bottom right y ~
-
 
 Output: True
 ```
